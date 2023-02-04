@@ -10,3 +10,6 @@ Keyboard Viewer for Gamers
 
 ## CAUTION
 <b>You should be run this program with 'Run As Administrator'.</b>
+
+## Download
+<a src='https://github.com/Indvel/PrettyGoodKeyViewer/releases' target='_blank'>Go to release</a>
